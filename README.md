@@ -1,2 +1,2 @@
-# FRCTeamTools
-Repo to contain test code from FRC Team members
+# InventoryApp
+An inventory management web application
